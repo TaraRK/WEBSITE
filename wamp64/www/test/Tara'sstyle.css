@@ -1,0 +1,222 @@
+body {
+     
+	 background-image: url("http://localhost/test/wallpaperc.jpg");
+     font-size: 20pt;
+	 margin-top: 50px;
+     margin-bottom: 100px;
+     margin-right: 150px;
+     margin-left: 80px;
+    }
+.top {
+  text-align: center;
+  color: black;
+  border-style: solid;
+}
+.mainheader{
+  text-align: right;
+  color: black;
+  font-family: "B Nazanin";
+  font-size: 38pt;
+  font-style: bold;
+}
+.header{
+  text-align: right;
+  color: black;
+  font-family: "B Nazanin";
+  font-size: 20pt;
+  font-style: bold;
+}
+.text{
+  text-align: right;
+  color: black;
+  font-family: "B Nazanin";
+  font-size: 16pt;
+  font-style: normal;
+}
+.txt{
+  text-align: right;
+  color: black;
+  font-family: "B Nazanin";
+  font-size: 18pt;
+  font-style: normal;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.footer {
+  font-size: 12pt;
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 12px;
+  column-count: 3;
+  column-gap: 40px;
+  column-fill: balance ;
+  position:fixed ;
+  bottom:0;
+  left:0;
+  right :0 ;
+  float: bottom ;
+  width : 100% ;
+  height: 8%;
+  
+}
+.block {
+  display: block;
+  width: 600px;
+  height: 400px;
+  background: white;
+  padding: 14px 16px;
+  box-shadow: 10px 10px 5px grey;
+}
+.block2 {
+  display: inline-block;
+  float: left;
+  width: 300px;
+  height: 400px;
+  background: white;
+  padding: 14px 16px;
+  box-shadow: 10px 10px 5px grey;
+}
+input[type=text] {
+  width: 400px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  padding: 12px 20px 12px 40px;
+  transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+  width: 100%;
+}
+input[type=button], input[type=submit] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  t
+  margin: 4px 2px;
+  }
+	button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  t
+  margin: 4px 2px;
+  }
+ .container {
+  width: 80%; 
+  background-color: #ddd; 
+  border-radius: 16px;
+  padding-left: 10px;
+}
+
+
+}
+* {box-sizing:border-box}
+.office {
+width: 95%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.Programming {
+width: 70%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.git {
+width: 50%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.photoshop {
+width: 80%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.Web {
+width: 50%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.eng {
+width: 100%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.deu {
+width: 70%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.fr {
+width: 60%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.ice {
+width: 60%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+.sw {
+width: 80%; 
+background-color: #8FBC8F;
+border-radius: 16px; 
+padding-left: 20px;
+}
+div.gallery {
+  margin: 30px;
+  border: 5px solid black;
+  float: left;
+  width: 300px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+  
+}
+
+div.gallery img {
+  width: 100%;
+  height: 300;
+  background-color:white;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  background-color:white;
+}
+
+
+	
+
